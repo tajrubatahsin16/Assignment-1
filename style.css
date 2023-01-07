@@ -1,0 +1,162 @@
+.header{
+    background-image: url(new-year-new-me-main/new-year-new-me-main/images/banner/banner1.png);
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+}
+/* banner styles */
+.banner{
+    margin: 0;
+    /* display: flex;
+    align-items: center; */
+    padding-top: 200px;
+    padding-left: 830px;
+    padding-right: 200px;
+    text-align: right;
+}
+.banner-title{
+    font-weight: bolder;
+    font-size: 50px;
+}
+.banner-des{
+    color: gray;
+}
+.btn-primary{
+    height: 55px;
+    width: 130px;
+    border-radius: 5px;
+    background: orangered;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 15px;
+    border: 0;
+}
+.failure{
+    margin: 0;
+    display: flex;
+    align-items: center;
+}
+.sec-head{
+    font-weight: bolder;
+    font-size: 50px;
+}
+.sec-body{
+    color: gray;
+    font-size: 17px;
+}
+ul{
+    color: gray;
+    list-style: none;
+    font-size: 17px;
+}
+ul li:before {
+    content: '✓';
+    color: yellowgreen;
+    font-weight: bold;
+  }
+  .complete-text{
+    padding-left: 150px;
+    padding-right: 250px;
+    text-align: left;
+  }
+  .lady{
+    padding-left: 100px;
+  }
+  .plans{
+    font-weight: bolder;
+    font-size: 45px;
+    text-align: center;
+  }
+  .plan-container{
+    display: flex;
+    justify-content: center;
+  }
+  .plan-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 29px;
+  }
+  .plan-sm{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+    color: gray;
+  }
+  .plan-des{
+    text-align: center;
+    align-items: center;
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+  .positive{
+    background-image: url(new-year-new-me-main/new-year-new-me-main/images/watch.png);
+    background-repeat: no-repeat;
+    height: 500px;
+    background-position: center;
+  }
+  .pitem{
+    padding-left: 250px;
+    padding-top: 100px;
+  }
+  .phead{
+    font-weight: 700;
+    font-size: 50px;
+    padding-right: 700px;
+    color: #FFFFFF;
+  }
+  .btn-second{
+    height: 60px;
+    width: 150px;
+    border-radius: 5px;
+    background: #FFFFFF;
+    color: orangered;
+    font-weight: 600;
+    font-size: 18px;
+    border: 0;
+  }
+  .contact{
+    display: flex;
+    background-color: black;
+    height: 450px;
+    align-items: center;
+    width: 100%;
+  }
+  .contact .future{
+    text-align: left;
+    color: #FFFFFF;
+    padding-left: 250px;
+    padding-right: 400px;
+  }
+  .contact .subscribe{
+    text-align: left;
+    color: #FFFFFF;
+    padding-right: 350px;
+    padding-bottom: 180px;
+
+  }
+  .fhead{
+    font-weight: 700;
+    font-size: 40px;
+  }
+  .shead{
+    font-weight: 700;
+    font-size: 40px;
+  }
+  input{
+    height: 50px;
+    width: 250px;
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 10px;
+  }
+  .btn-third{
+    height: 60px;
+    width: 150px;
+    border-radius: 10px;
+    background: #FFFFFF;
+    color: orangered;
+    font-weight: 600;
+    font-size: 18px;
+    border: 0;
+    margin-top: 10px;
+  }
